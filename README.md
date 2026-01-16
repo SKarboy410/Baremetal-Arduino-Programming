@@ -76,7 +76,7 @@ make clean
 
 ---
  
-Next time, I will try to add more features to the tone function and implement more of the arduino functions. I also plan to rewrite more of the core arduino(MCU in general) thing such as SPI, I2C, ADC and DAC and more stuff which I don't understand. 
+Next time, I will try to add more features to the tone function and implement more of the arduino functions. I also plan to rewrite more of the core arduino(MCU in general) things such as SPI, I2C, ADC and DAC and more stuff which I don't understand. 
 The long term goal which starts with this project is gain the skills to get a good embedded engineer and make cool stuff!
 
 ##  Thanks for Reading :)
