@@ -1,6 +1,6 @@
 #  Baremetal Arduino Programming
 
-This project is my current embedded systems journey, where I try to implement the standard Arduino library functions using pure C, without any fancy abstractions. Everything here directly interacts with the actual hardware.
+This project is a part my embedded systems journey. Here I try to implement the standard Arduino library functions using pure C, without any fancy abstractions. Everything here directly interacts with the actual hardware.
 
 ---
 
