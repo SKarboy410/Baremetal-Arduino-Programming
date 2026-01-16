@@ -20,7 +20,7 @@ These are necessary for compiling the code and flashing/uploading the code to th
 
 ##  Detecting Your Arduino’s Serial Port
 
-After installing them, you have look for locate to which your arduino is connected to.
+After installing them, you have locate the port to which your arduino is connected to.
 
 Run one of the following:
 
