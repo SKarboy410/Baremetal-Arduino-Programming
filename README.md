@@ -2,6 +2,8 @@
 
 This project is a part my embedded systems journey. Here I try to implement the standard Arduino library functions using just C, without any fancy abstractions. Everything here directly interacts with the actual hardware.
 
+Atmega328p(or arduino uno) datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
+
 ---
 
 ##  Required Tools
