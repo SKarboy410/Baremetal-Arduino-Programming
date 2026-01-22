@@ -1,7 +1,7 @@
-#include "waveGen.h"
+#include "tone.h"
 
 int main(){            
-    tone(440,5000,13);
+    tone(440,1000,13);
 
     while(1);
 
