@@ -60,21 +60,6 @@ To remove build files:
 make clean
 ```
 
----
-
-##  Project Structure
-
-```
-/project-root
-│
-├── Makefile           # Builds and uploads the project
-├── util.c             # Pin mapping + helper utilities
-├── util.h
-├── waveGen.c          # tone() + noTone() implementation
-├── waveGen.h
-├── blink.c            # demo application
-└── .gitignore
-```
 
 ---
  
