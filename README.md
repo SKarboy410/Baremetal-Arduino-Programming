@@ -21,7 +21,7 @@ If you wanna run this command then here are the steps to do it in a UNIX-like sy
 Install the necessary libraries:
 
 ```
-sudo apt install avr-gcc avr-libc binutils-avr avrdude
+sudo apt install gcc-avr avr-libc binutils-avr avrdude
 ```
 
 These are necessary for compiling the code and flashing/uploading the code to the MCU.
