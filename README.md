@@ -1,6 +1,14 @@
-#  Baremetal Arduino Programming
+#  Custom Tone Function for arduino 
 
-This project is a part my embedded systems journey. Here I try to implement the standard Arduino library functions using just C, without any fancy abstractions. Everything here directly interacts with the actual hardware.
+This project is a part my embedded systems journey. Here I try to implement the standard Arduino library functions using just C, without any fancy abstractions. Everything here directly interacts with the actual hardware
+
+In this very basic project, I have implemented the tone() function. This function includes:
+- Customisable duration, frequency and pin
+- Infinite Duration Support
+- Busy flag(kinda buggy sometimes though)
+
+
+Materials:
 
 Atmega328p(or arduino uno) datasheet: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
